@@ -1,0 +1,15 @@
+<html>
+<body>
+<?php
+if (isset($_GET{'UserIfo'})){
+ $out = 'your input was: "' . $_GET{'UserIfo'} . '".';
+} else {
+ $out = '<form method=”GET”>enter some information here: ';
+ $out .= '<input name="UserInput" size="60">';
+ $out .= '<input type="submit">';
+ $out .= '</form>';
+}
+print $out;
+?>
+</body>
+</html>
