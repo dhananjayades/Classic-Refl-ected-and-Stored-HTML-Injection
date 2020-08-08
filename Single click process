@@ -10,14 +10,12 @@
 </body>
 </html>
 
-Single-click process. To do so, I am  creating here HTML page.
+/* Single-click process. To do so, I am  creating here HTML page./*
 
-stored HTML injection is much like a reflected HTML injection. The only difference
+stored HTML injection is much like a reflected HTML injection. The only difference is that the attacker places script in the web application where the script is stored to be
 
-is that the attacker places script in the web application where the script is stored to be
+retrieved later . 
 
-retrieved later  (- _ ~) 
-
-Meanwhile server will respond.
+Meanwhile server will respond. (- _ ~) 
 
                    -----------Happy Hunting--------------------
