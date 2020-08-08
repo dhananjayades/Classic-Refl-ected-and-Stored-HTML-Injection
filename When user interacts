@@ -5,7 +5,7 @@ request and the web application  responded the exact sameJavaScript.
 
 To execute this script, any user needs only click the following link:
 
-http://publicpages.targetwebsite.com/~someuser/LearningPhp.php?input=<script>alert(1)
+http://publicpages.targetwebsite.com/~someuser/Php.php?input=<script>alert(1)
 
 </script>
 
