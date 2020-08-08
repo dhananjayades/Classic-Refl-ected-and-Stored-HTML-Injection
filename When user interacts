@@ -1,0 +1,12 @@
+When the user clicks Submit Query, the web application makes the following GET request to the server.
+
+This example is a reflected HTML injection because the user sent JavaScript in an HTTP
+request and the web application  responded the exact sameJavaScript.
+
+To execute this script, any user needs only click the following link:
+
+http://publicpages.targetwebsite.com/~someuser/LearningPhp.php?input=<script>alert(1)
+
+</script>
+
+-----------Happy Hunting ------------------------
